@@ -29,9 +29,11 @@ This Python script brings you the exciting Higher-Lower guessing game! Test your
 ## Example Gameplay:
 
 Compare A: Albert Einstein, a theoretical physicist, from Germany.
+
 Against B: Ariana Grande, an American singer and actress.
 
 Who has more followers? Type 'A' or 'B': a
+
 You're right! Current score: 1.
 
 ... (continue guessing through more rounds)
